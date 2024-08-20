@@ -1,10 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nathan
 ==============================================================================================================================
 
-* 🌍  Je suis basé en France
+* 🌍  J'habite en France
 * ✉️  Vous pouvez me contacter [laxnathan59@gmail.com](mailto:laxnathan59@gmail.com)
-* 🧠  J'essaie d'apprendre À programmer des sites Web qualité
-* 🤝  Je suis ouvert à une collaboration Pour des bêta test/bénévole
+* 🧠  J'essaie d'apprendre À programmer des sites Web de qualité (malgré mon niveau qui est vraiment très très nul 🙁) 
+
+* 🤝  Je suis ouvert à une collaboration Pour des bêta test/bénévole ! 
 
 <a href="https://www.github.com/NathanFurry-Lax" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/NathanFurry-Lax?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
